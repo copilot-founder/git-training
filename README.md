@@ -63,7 +63,7 @@ git-training-basic-matrial/
 └── README.md
 ```
 
-## 🤝 Contributing
+## Contributing
 Feel free to fork and contribute to this repository!
 
 ---
