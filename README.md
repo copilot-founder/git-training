@@ -4,9 +4,9 @@ GitHub training material for Basic level with automated deployment.
 
 ## Live Site
 
-**Live site:** https://copilot-founder.github.io/git-training-basic-matrial/
+**Live site:** https://copilot-founder.github.io/git-training/
 
-**Repo URL:** `[https://github.com/copilot-founder/git-training-basic-matrial/]`
+**Repo URL:** `[https://github.com/copilot-founder/git-training/]`
 
 ## Training Content
 
@@ -55,7 +55,7 @@ This repository uses **GitHub Actions** for automatic deployment:
 
 ## 📁 Repository Structure
 ```
-git-training-basic-matrial/
+git-training/
 ├── .github/workflows/
 │   └── deploy.yml          # Auto-deployment workflow
 ├── index.html              # Beautiful documentation site
